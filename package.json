@@ -12,6 +12,9 @@
     "db:generate": "prisma generate",
     "db:seed": "tsx prisma/seed.ts"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
     "@prisma/client": "^5.7.0",
