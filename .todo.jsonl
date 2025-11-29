@@ -1,0 +1,6 @@
+{"id":"phase1","content":"Phase 1: Set up project structure and core dependencies","status":"completed","priority":"high"}
+{"id":"phase2","content":"Phase 2: Create Prisma schema file","status":"completed","priority":"high"}
+{"id":"phase3","content":"Phase 3: Create public-facing pages (Home, Browse, Resource Detail, Learning Paths, AI Assistant, About)","status":"completed","priority":"high"}
+{"id":"phase4","content":"Phase 4: Create admin dashboard with protected routes","status":"completed","priority":"high"}
+{"id":"phase5","content":"Phase 5: Implement core features (multilingual, legal footer, click tracking)","status":"completed","priority":"medium"}
+{"id":"readme","content":"Create README.md with setup instructions","status":"in_progress","priority":"medium"}
